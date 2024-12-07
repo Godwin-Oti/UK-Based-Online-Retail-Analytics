@@ -45,23 +45,23 @@ This project focuses on the analysis of a UK-based online retail dataset contain
 
 ### The project follows these steps:
 
-1. Data Cleaning:
+1. **Data Cleaning:**
 
 * Handled missing values, Outliers, and inconsistent data.
 
 * Converted data types and extracted relevant date-time features.
 
-2. Exploratory Data Analysis (EDA):
+2. **Exploratory Data Analysis (EDA):**
 
 * Analyzed sales trends by time, geography, and product.
 
 * Identified customer segments and spending patterns.
 
-3. Customer Segmentation:
+3. **Customer Segmentation:**
 
 * Used RFM (Recency, Frequency, Monetary) analysis to classify customers into categories such as high-value and low-value segments.
 
-4. Predictive Modeling:
+4. **Predictive Modeling:**
 
 * Built models to predict customer churn, product demand, and pricing strategies.
 
